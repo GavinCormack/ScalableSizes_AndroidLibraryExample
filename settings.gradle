@@ -1,0 +1,2 @@
+rootProject.name='ScalableSizes_AndroidLibraryExample'
+include ':app'
