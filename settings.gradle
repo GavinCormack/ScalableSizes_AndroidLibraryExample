@@ -1,2 +1,3 @@
 rootProject.name='ScalableSizes_AndroidLibraryExample'
 include ':app'
+include ':scalablesizes'
